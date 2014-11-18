@@ -1,4 +1,4 @@
-// Erik Slack CS 235 Fall 2014 Midterm
+// Erik Slack
 #pragma once
 #include <iostream>
 #include <sstream>
