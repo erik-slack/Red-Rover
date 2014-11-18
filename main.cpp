@@ -1,4 +1,4 @@
-// Erik Slack CS 235 Fall 2014 Midterm
+// Erik Slack
 #include <iostream>
 #include "roster.h"
 #include "player.h"
